@@ -10,6 +10,8 @@ use Illuminate\Validation\ValidationException;
 
 class ConfirmablePasswordController extends Controller
 {
+
+    
     /**
      * Show the confirm password view.
      *
